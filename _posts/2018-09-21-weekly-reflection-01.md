@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Samir Forde, Student, Weekly Reflection #1 (9/21/18)"
+title: "Samir Forde, Student, Weekly Reflection #1"
 date: 2018-09-21
 ---
 
