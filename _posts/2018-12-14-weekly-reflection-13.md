@@ -18,4 +18,4 @@ date: 2018-12-13
 ```
 ![FlagImage](/images/flagV2.png)
 
-I had one question to ask this week during our project, and that was today. The question was, "Why does my text appear in the code box when I put the 3 back-ticks after the code?" Mr. Allatta said that the back-ticks need to be on their own line. So that was the issue. A challenge was... everything. 
+I had one question to ask this week during our project, and that was today. The question was, "Why does my text appear in the code box when I put the 3 back-ticks after the code?" Mr. Allatta said that the back-ticks need to be on their own line. So that was the issue. A challenge was... everything. There were a lot of issues with the code and I had to go back to fix it over and over again. Opportunites... it was just when I finished the flag. It was so relieving and I was so happy that it was over and done with. Something in computer science that I'm looking forward to is working moreon our flag projects.
