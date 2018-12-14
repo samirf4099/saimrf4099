@@ -16,6 +16,6 @@ date: 2018-12-13
 (define BELT2(rectangle WIDTH 25 "solid" "darkblue"))
 (define NORWAY(put-image BELT2 225 150 NOR3))
 ```
-![FlagImage](/images/flagV2.png)
+![Flag Image](/images/flagV2.png)
 
 I had one question to ask this week during our project, and that was today. 
