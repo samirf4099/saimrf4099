@@ -15,3 +15,4 @@ date: 2018-12-13
 (define NOR3(put-image STRAP2 160 150 NOR2))
 (define BELT2(rectangle WIDTH 25 "solid" "darkblue"))
 (define NORWAY(put-image BELT2 225 150 NOR3))```
+wagrwrgweg
