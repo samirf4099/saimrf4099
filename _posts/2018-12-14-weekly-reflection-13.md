@@ -16,4 +16,4 @@ date: 2018-12-13
 (define BELT2(rectangle WIDTH 25 "solid" "darkblue"))
 (define NORWAY(put-image BELT2 225 150 NOR3))
 ```
-k.,hggv
+[Flag Image}(/images/Norway)
