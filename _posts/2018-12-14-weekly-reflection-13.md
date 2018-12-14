@@ -17,3 +17,5 @@ date: 2018-12-13
 (define NORWAY(put-image BELT2 225 150 NOR3))
 ```
 ![Flag Image}(/images/flagV2.png)
+
+I had one question to ask this week during our project, and that was today. 
