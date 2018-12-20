@@ -15,7 +15,7 @@ I designed the Norwegian flag. I expected a grade of apprentice (2).
 ## Current output
 
 * * *
-![FlagImage](Images/final-flag.png)
+![Flag](Images/final-flag.png)
 * * *
 
 ## Describe your process.
