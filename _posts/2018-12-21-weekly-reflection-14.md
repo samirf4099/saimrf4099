@@ -15,7 +15,7 @@ I designed the Norwegian flag. I expected a grade of apprentice (2).
 ## Current output
 
 * * *
-![Flag](/Images/final-flag.png)
+![Flag](/Images/flagV2.png)
 * * *
 
 ## Describe your process.
@@ -81,7 +81,5 @@ Each argument makes all the differnt shapes that make up the Norwegian flag. The
 (define BELT2(rectangle WIDTH 25 "solid" "darkblue"))
 
 (define NORWAY(put-image BELT2 225 150 NOR3))
-
-(scale 2 NORWAY)
 
 ```
